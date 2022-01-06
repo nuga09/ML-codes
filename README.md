@@ -1,2 +1,2 @@
 # ML-codes
-regression, classification analysis 
+Analysis of multiple regression, classification projects on different datasets 
