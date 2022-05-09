@@ -1,2 +1,2 @@
 # ML-codes
-Analysis of multiple regression, classification projects on different datasets 
+supervised and unsupervised machine learning for Analysis of multiple regression, classification projects on different datasets 
